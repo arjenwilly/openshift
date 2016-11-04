@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/openshift/nodejs-ex.git"
+    "url": "http://github.com/arjenwilly/openshift.git"
   },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
+  "author": "Arjen Wilts <arjenwilts@gmail.com>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/openshift/nodejs-ex/issues"
+    "url": "http://github.com/arjenwilly/openshift/issues"
   },
-  "homepage": "http://github.com/openshift/nodejs-ex"
+  "homepage": "http://github.com/arjenwilly/openshift/"
 }
